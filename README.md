@@ -1,2 +1,2 @@
-# leetcode_practice
+# leetcode practice
 A record of practicing leetcode
